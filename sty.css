@@ -40,6 +40,16 @@ h1{
 h3{
     margin-top: 20px;
 }
+
+.skill-row{
+    width:50%;
+    margin: 0 auto 0 auto ;
+    text-align: left;
+    line-height: 1.5;
+}
+.img-skill{
+    width:25%;
+}
 .top{
     background-color:lightblue;
     position:relative;
