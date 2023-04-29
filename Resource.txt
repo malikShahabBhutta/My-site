@@ -7,3 +7,19 @@ flaticon.com ///// for picture or logo //////
 giphy.com /////Animatede picture and video ////
 
 font color css mdn ////
+
+Css button generater //// it generate button by instrection 
+
+
+  codeply.com ////use for bootstrap and other////
+
+
+ui-patterns ////    for geting idae of layout and see peoblem
+
+
+dribble  ///  get idea and inspriation by other making laout ///
+
+
+balsamiq.cloud   ////  create fream of webside before developing ////
+
+   
